@@ -6,10 +6,10 @@ title: PMAI25 @ECAI
 ## 4th International Workshop on Process Management in the AI era
 
 {: style="text-align: center"}
-### Location
+### Bologna, Italy
 
 {: style="text-align: center"}
-#### Month XX, 2025
+#### October 25, 2025
 
 {: style="text-align: justify"}
 Process Management (PM) is a multidisciplinary field that combines insights from operations management, computer science, 

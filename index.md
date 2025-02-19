@@ -1,8 +1,9 @@
 ---
 layout: home
 title: PMAI25
-subtitle: Hosted by <a href='https://ecai2025.org/'>ECAI</a>
 ---
+# Hosted by [ECAI](https://ecai2025.org/)
+
 {: style="text-align: center"} 
 ## 4th International Workshop on Process Management in the AI era
 

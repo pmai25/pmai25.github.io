@@ -2,7 +2,7 @@
 layout: page
 title: Keynote Speaker
 ---
-
+{: style="text-align: center"}
 ## Invited Speaker: To bo announced
 <!--
 ![Claudio_DiCiccio](/assets/img/Claudio_DiCiccio.jpg){:class="img-responsive" style="max-width: 50%; float: left; border-radius: 3%; margin-right: 25px"}

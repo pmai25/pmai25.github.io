@@ -2,7 +2,6 @@
 layout: home
 title: PMAI25
 ---
-
 {: style="text-align: center"}
 Hosted by [ECAI](https://ecai2025.org/)
 

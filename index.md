@@ -3,7 +3,7 @@ layout: home
 title: PMAI25 @ECAI
 ---
 {: style="text-align: center"} 
-## 2nd International Workshop on Process Management in the AI era
+## 4th International Workshop on Process Management in the AI era
 
 {: style="text-align: center"}
 ### Location

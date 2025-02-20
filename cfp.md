@@ -8,7 +8,7 @@ title: Call for Papers
 | Abstract Submission       | May 8, 2025 <!-- ~~May 1~~ May 8 (<span style="color:red">**extended**</span>), 2023 -->   |
 | Paper Submission Deadline | May 15, 2025 <!-- ~~May 8~~ May 15 (<span style="color:red">**extended**</span>), 2023 -->    |
 | Paper Notification        | June 30, 2025  |
-| Camera Ready              | August 31, 2025 <!-- September 3, 2023 --> TBD       |
+| Camera Ready              | August 31, 2025 <!-- September 3, 2023 -->       |
 | Workshop                  | October 25 or 26, 2023  |
 
 Topics of interest for submission include, but are not limited to:

@@ -126,7 +126,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "pmai,pmai25,ecai"
+keywords: "pmai,pmai25,ecai"
 
 ######################################
 # --- Colours / background image --- #

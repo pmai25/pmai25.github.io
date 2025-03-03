@@ -17,7 +17,7 @@ title: Organizers
 - Massimiliano De Leoni, University of Padova
 - Claudio Di Ciccio, Utrecht University
 - Peter Fettke, DFKI and Saarland University
-- Timotheus Kampik, SAP Signavio, SAP, Umeå University
+- Timotheus Kampik, SAP, Umeå University
 - Yves Lesperance, York University
 - Giuseppe Mazzotta, University of Calabria
 - Massimo Mecella, Sapienza University of Rome

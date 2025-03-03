@@ -34,7 +34,7 @@ Topics of interest for submission include, but are not limited to:
 
 ## Submission Details
 
-Submissions must be written in English, prepared using the new CEUR-ART 1-column style, formatted in PDF, and submitted through [EasyChair]().
+Submissions must be written in English, prepared using the new CEUR-ART 1-column style, formatted in PDF, and submitted through [EasyChair](https://easychair.org/conferences/?conf=pmai25).
 
 An Overleaf template for LaTeX users is available [here](https://www.overleaf.com/read/gwhxnqcghhdt). Alternatively, you can [download](https://ceur-ws.org/Vol-XXX/CEURART.zip) an offline version with the style files for both LaTeX and MS-Word.
 
@@ -51,7 +51,7 @@ Submissions will be reviewed by 2-3 reviewers. Submissions should be single-blin
 
 ## Camera Ready Preparation
 
-The proceedings will be submitted to CEUR-WS.org for online publication. Papers will be published under a CC BY 4.0 license that will be included in an open-access proceedings volume of CEUR Workshop Proceedings, indexed by both Scopus and DBLP. Extended Abstracts are no longer indexed by dblp.org and the case of an abstract of a pre-published paper may require a permission by the copyright holder.
+The proceedings will be submitted to CEUR-WS.org for online publication. Papers will be published under a CC BY 4.0 license that will be included in an open-access proceedings volume of CEUR Workshop Proceedings, indexed by both Scopus and DBLP. Extended Abstracts are no longer indexed by dblp.org and the case of an abstract of a pre-published paper may require permission by the copyright holder.
 
 <!-- ## Special Issue 
 

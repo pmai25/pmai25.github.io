@@ -14,7 +14,7 @@ title: Organizers
 
 ## Program Committee
 TBD
-<!-- 
+<!--
 - Izack Cohen, Bar-Ilan university
 - Massimiliano De Leoni, University of Padova
 - Claudio Di Ciccio, Utrecht University

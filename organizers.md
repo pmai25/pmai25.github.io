@@ -13,4 +13,16 @@ title: Organizers
 
 
 ## Program Committee
-- TBD
+TBD
+<!-- 
+- Massimiliano De Leoni, University of Padova
+- Claudio Di Ciccio, Utrecht University
+- Peter Fettke, Saarland University
+- Yves Lesperance, York University
+- Giuseppe Mazzotta, University of Calabria
+- Massimo Mecella, Sapienza University of Rome
+- Jana-Rebecca Rehse, University of Mannheim
+- Hajo Reijers, Utrecht University
+- Pnina Soffer, University of Haifa
+- Segev Shlomov, IBM Research Israel
+-->

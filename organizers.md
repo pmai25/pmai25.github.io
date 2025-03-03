@@ -15,6 +15,7 @@ title: Organizers
 ## Program Committee
 TBD
 <!-- 
+- Izack Cohen, Bar-Ilan university
 - Massimiliano De Leoni, University of Padova
 - Claudio Di Ciccio, Utrecht University
 - Peter Fettke, Saarland University
@@ -23,6 +24,7 @@ TBD
 - Massimo Mecella, Sapienza University of Rome
 - Jana-Rebecca Rehse, University of Mannheim
 - Hajo Reijers, Utrecht University
+- Arik Senderovich, York University
 - Pnina Soffer, University of Haifa
 - Segev Shlomov, IBM Research Israel
 -->

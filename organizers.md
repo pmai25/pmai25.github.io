@@ -14,6 +14,7 @@ title: Organizers
 
 ## Program Committee
 - Izack Cohen, Bar-Ilan University
+- Carl Corea, University of Koblenz
 - Massimiliano De Leoni, University of Padova
 - Francesco Chiariello, University of Naples Federico II
 - Claudio Di Ciccio, Utrecht University

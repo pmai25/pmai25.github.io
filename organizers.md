@@ -15,12 +15,15 @@ title: Organizers
 ## Program Committee
 - Izack Cohen, Bar-Ilan University
 - Massimiliano De Leoni, University of Padova
+- Francesco Chiariello, University of Naples Federico II
 - Claudio Di Ciccio, Utrecht University
 - Peter Fettke, DFKI and Saarland University
 - Timotheus Kampik, SAP, Umeå University
 - Yves Lesperance, York University
 - Giuseppe Mazzotta, University of Calabria
 - Massimo Mecella, Sapienza University of Rome
+- Andreas Metzger, Paluno, University of Duisburg-Essen
+- Luigi Pontieri, ICAR, National Research Council of Italy (CNR)
 - Jana-Rebecca Rehse, University of Mannheim
 - Hajo Reijers, Utrecht University
 - Arik Senderovich, York University

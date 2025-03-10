@@ -19,6 +19,7 @@ title: Organizers
 - Francesco Chiariello, University of Naples Federico II
 - Claudio Di Ciccio, Utrecht University
 - Peter Fettke, DFKI and Saarland University
+- Michele Ianni, University of Calabria
 - Timotheus Kampik, SAP, Umeå University
 - Yves Lesperance, York University
 - Giuseppe Mazzotta, University of Calabria

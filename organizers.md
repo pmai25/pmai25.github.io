@@ -28,6 +28,7 @@ title: Organizers
 - Luigi Pontieri, ICAR, National Research Council of Italy (CNR)
 - Jana-Rebecca Rehse, University of Mannheim
 - Hajo Reijers, Utrecht University
+- Francesco	Ricca, University of Calabria
 - Arik Senderovich, York University
 - Pnina Soffer, University of Haifa
 - Segev Shlomov, IBM Research Israel

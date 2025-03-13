@@ -18,6 +18,7 @@ title: Organizers
 - Massimiliano De Leoni, University of Padova
 - Francesco Chiariello, University of Naples Federico II
 - Claudio Di Ciccio, Utrecht University
+- Dirk Fahland, Eindhoven University of Technology
 - Peter Fettke, DFKI and Saarland University
 - Michele Ianni, University of Calabria
 - Timotheus Kampik, SAP, Umeå University

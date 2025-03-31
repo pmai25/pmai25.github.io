@@ -3,8 +3,7 @@ layout: page
 title: Keynote Speaker
 ---
 {: style="text-align: center"}
-## Invited Speaker: 
-### Prof. Andrea Matta
+## Prof. Andrea Matta
 #### Department of Mechanical Engineering, Politecnico di Milano, Italy
 
 ![Andrea_Matta](/assets/img/andrea.jpg){:class="img-responsive" style="max-width: 50%; float: left; border-radius: 3%; margin-right: 25px"}

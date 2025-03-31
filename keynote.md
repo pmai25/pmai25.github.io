@@ -3,22 +3,16 @@ layout: page
 title: Keynote Speaker
 ---
 {: style="text-align: center"}
-## Invited Speaker: To bo announced
-<!--
-![Claudio_DiCiccio](/assets/img/Claudio_DiCiccio.jpg){:class="img-responsive" style="max-width: 50%; float: left; border-radius: 3%; margin-right: 25px"}
+## Invited Speaker: 
+### Prof. Andrea Matta
+#### Department of Mechanical Engineering, Politecnico di Milano, Italy
+
+![Andrea_Matta](/assets/img/andrea.jpg){:class="img-responsive" style="max-width: 50%; float: left; border-radius: 3%; margin-right: 25px"}
 
 {: style="text-align: justify"}
-Claudio Di Ciccio is an associate professor at the Department of Computer Science at Sapienza University of Rome. He previously worked as an assistant professor at the Vienna University of Economics and Business (WU Vienna, Austria). He received his PhD in Computer Science and Engineering from Sapienza in 2013 and has obtained national habilitations in the areas of Information Systems and Computer Science.
+Andrea Matta is Full Professor in Manufacturing and Production Systems at Department of Mechanical Engineering of Politecnico di Milano. He graduated in Industrial Engineering at Politecnico di Milano where he develops his teaching and research activities since 1998. He was Distinguished Professor at the School of Mechanical Engineering of Shanghai Jiao Tong University from 2014 to 2016 and Guest Professor between 2017-2019. He has been visiting scholar at Ecole Centrale Paris (France), University of California at Berkeley (USA), and Tongji University (China). He is member of the technical committee of MADE Competence Center. His research area includes analysis, design and management of manufacturing and health care systems. He has published 210 scientific papers on international and national journals/conference proceedings. He is Editor in Chief of Flexible Services and Manufacturing Journal since 2017, past member of editorial board of OR Spectrum journal, and IEEE Robotics and Automation Letters journal. He was awarded with the Shanghai One Thousand Talent and Eastern Scholar in 2013. President of the Italian National Committee for Professor Qualification in Manufacturing Engineering.
+
+### Talk title: Generation of Graph-based Models for Digital Twins of Discrete Event Systems
 
 {: style="text-align: justify"}
-His research interests focus on Process Mining, Automated Reasoning, and Blockchain. Claudio Di Ciccio is a member of the Steering Committee of the IEEE Task Force on Process Mining. He has also served as co-chair of various conferences, including the first Blockchain Forum at BPM in 2019, the third International Conference on Process Mining in 2021, and the twentieth International Conference on Business Process Management in 2022. Currently, he is the general co-chair of the upcoming 5th International Conference on Process Mining (ICPM 2023).
-
-For more information, visit [here](http://claudio.diciccio.net/)
-
-### Talk title: Automated Reasoning and Data Analytics for Declarative Process Mining
-
-{: style="text-align: justify"}
-A process describes the temporal evolution of a system. Capturing the rules that govern its control flow helps to understand the boundaries of its behaviour. With a declarative specification, a process is defined by those boundaries, expressed in terms of constraints rooted in temporal logic. The execution dynamics can vary as long as they do not violate such constraints, which specify the conditions that require or forbid the execution of actions. 
-Manually providing a complete list of rules that depict process behaviour consistently, correctly, and precisely is a strenuous task. Process mining can offer valuable help to this end by resorting to the analysis of process data. 
-This talk revolves around the recent advancements in research concerning the discovery of, and reasoning on, the declarative specifications of processes. The discourse will specifically focus on core tasks pertaining to the data-based extraction and verification of rules from a process management and mining perspective, with remarks on open challenges and future research avenues in the field.
--->
+With the coming of the Industry 4.0 wave, digital representations of production systems have been promoted from marginal to central. Digital twins are not simply conceived as simulation models of their physical counterparts for offline what-if analysis, differently they are developed as self-adaptable and empowered decision-makers timely aligned with the dynamics of the real system. Enriched by these new features, digital twins are widely recognized as the key enablers for the implementation of optimal control of smart manufacturing systems. Graphs are well recognized as the mathematical structures representing the common denominator of engineering activities in manufacturing. They are the unifying language in industrial engineering, underpinning, for example, toolpaths, process plans, workflows, and system topologies. This talk will present methods for automatically generating graphs from real process gathered data to represent physical entities in a digital twin scenario. Further, generative approaches based on discrete diffusion will be discussed in relation to model tuning, control, and optimization.

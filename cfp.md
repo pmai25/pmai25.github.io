@@ -36,7 +36,7 @@ Topics of interest for submission include, but are not limited to:
 
 Submissions must be written in English, prepared using the new CEUR-ART 1-column style, formatted in PDF, and submitted through [EasyChair](https://easychair.org/conferences/?conf=pmai25).
 
-An Overleaf template for LaTeX users is available [here](https://www.overleaf.com/read/gwhxnqcghhdt). Alternatively, you can [download](https://ceur-ws.org/Vol-XXX/CEURART.zip) an offline version with the style files for both LaTeX and MS-Word.
+An Overleaf template for LaTeX users is available [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). Alternatively, you can [download](https://ceur-ws.org/Vol-XXX/CEURART.zip) an offline version with the style files for both LaTeX and MS-Word.
 
 PMAI 2025 invites submissions of research, industry, and application contributions.
 

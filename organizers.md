@@ -20,6 +20,7 @@ title: Organizers
 - Claudio Di Ciccio, Utrecht University
 - Dirk Fahland, Eindhoven University of Technology
 - Peter Fettke, DFKI and Saarland University
+- Valeria	Fionda, University of Calabria
 - Michele Ianni, University of Calabria
 - Timotheus Kampik, SAP, Umeå University
 - Yves Lesperance, York University

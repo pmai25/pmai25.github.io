@@ -13,6 +13,7 @@ title: Organizers
 
 
 ## Program Committee
+- Daniel Amyot, University of Ottawa
 - Izack Cohen, Bar-Ilan University
 - Carl Corea, University of Koblenz
 - Massimiliano De Leoni, University of Padova

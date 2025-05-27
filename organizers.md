@@ -36,3 +36,4 @@ title: Organizers
 - Pnina Soffer, University of Haifa
 - Segev Shlomov, IBM Research Israel
 - Matthias Thimm, FernUniversität in Hagen
+- Barbara Weber, University of St. Gallen

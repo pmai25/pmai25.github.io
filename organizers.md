@@ -32,6 +32,7 @@ title: Organizers
 - Jana-Rebecca Rehse, University of Mannheim
 - Hajo Reijers, Utrecht University
 - Francesco	Ricca, University of Calabria
+- Stefanie Rinderle-Ma, Technical University of Munich
 - Arik Senderovich, York University
 - Pnina Soffer, University of Haifa
 - Segev Shlomov, IBM Research Israel

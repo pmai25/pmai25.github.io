@@ -9,7 +9,7 @@ title: Call for Papers
 | Paper Submission Deadline | ~~May 15~~ May 31 (<span style="color:red">**extended**</span>), 2025 <!-- ~~May 8~~ May 15 (<span style="color:red">**extended**</span>), 2023 -->    |
 | Paper Notification        | June 30, 2025  |
 | Camera Ready              | August 31, 2025 <!-- September 3, 2023 -->       |
-| Workshop                  | October 25 or 26, 2025  |
+| Workshop                  | October 25, 2025  |
 
 Topics of interest for submission include, but are not limited to:
 - multi-perspective process models (including data, time, and resources)

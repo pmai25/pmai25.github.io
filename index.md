@@ -13,7 +13,7 @@ title: PMAI25
 ### Bologna, Italy
 
 {: style="text-align: center"}
-#### October 25 or 26, 2025
+#### October 25, 2025
 
 {: style="text-align: justify"}
 Process Management (PM) is a growing multidisciplinary discipline combining insights from computer science, operations research, and data science (cf., process mining). The extraordinary development of AI techniques and the dawning of the Generative AI (GenAI) era are paving the way toward a new generation of information systems able to “augment” process management, making them more autonomous, adaptive, intelligent, optimized, and self-explanatory. Such systems are referred to as [AI-augmented BPM systems](https://doi.org/10.1145/3576047) (ABPMS). These are AI-empowered, trustworthy, and process-aware systems that continuously reason and act on data within a set of constraints, aiming to adapt and improve one or more processes according to various indicators. Furthermore, recent advances in AI are redefining the traditional scope of business processes. Future processes will encompass a broader spectrum of activities where the sequencing of actions is crucial for achieving system goals. These processes extend beyond the conventional concept of business workflows to include a variety of manifestations such as function calls, chains of thought, causal reasoning, broader forms of logical reasoning, and multi-agent collaborations.
